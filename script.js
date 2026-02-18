@@ -62,8 +62,8 @@ const translations = {
             title: "Packaging Options"
         },
         prod: {
-            "25kg": "25kg Bag",
-            "25kg_desc": "Perfect for gardens and small farms. Easy to handle.",
+            "1kg": "1kg Pack",
+            "1kg_desc": "Ideal for home pots and small plants.",
             "50kg": "50kg Bag",
             "50kg_desc": "Standard size for orchards and field application.",
             bulk: "Bulk Supply",
@@ -127,7 +127,11 @@ const translations = {
         footer: {
             tagline: "Where Soil Comes Alive.",
             links: "Quick Links",
-            areas: "Service Areas"
+            areas: "Service Areas",
+            phone: "Phone:",
+            contact: "Contact:",
+            locations: "Himachal Pradesh, Punjab, Haryana, J&K, and Pan-India Supply.",
+            rights: "All rights reserved."
         }
     },
     hi: {
@@ -192,8 +196,8 @@ const translations = {
             title: "पैकेजिंग विकल्प"
         },
         prod: {
-            "25kg": "25 किलो बैग",
-            "25kg_desc": "बगीचों और छोटे खेतों के लिए उत्तम। उठाने में आसान।",
+            "1kg": "1 किलो पैक",
+            "1kg_desc": "घर के गमलों और छोटे पौधों के लिए आदर्श।",
             "50kg": "50 किलो बैग",
             "50kg_desc": "बागानों और खेतों के लिए मानक आकार।",
             bulk: "थोक सप्लाई",
@@ -257,7 +261,11 @@ const translations = {
         footer: {
             tagline: "जहाँ मिट्टी जीवंत हो उठती है।",
             links: "क्विक लिंक",
-            areas: "सेवा क्षेत्र"
+            areas: "सेवा क्षेत्र",
+            phone: "फ़ोन:",
+            contact: "संपर्क:",
+            locations: "हिमाचल प्रदेश, पंजाब, हरियाणा, जम्मू-कश्मीर और अखिल भारतीय आपूर्ति।",
+            rights: "सर्वाधिकार सुरक्षित।"
         }
     }
 };
